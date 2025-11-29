@@ -1,2 +1,2 @@
-# mu-first-code
+# ｍｙ-first-code
 はじめてのコーディング
